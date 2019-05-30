@@ -22,8 +22,7 @@ namespace TokenTok
 
         static async Task TestGettingTokBalanceAsync()
         {
-            // Ethereum network to connect to
-            //var ethereumNetworkUrl = "https://rinkeby.infura.io/v3/7238211010344719ad14a89db874158c";
+            // Ethereum network to connect to            
             var ethereumNetworkUrl = "https://rinkeby.infura.io/";
 
             // There is a ERC20 token called TOK deployed on Rinkeby here:
