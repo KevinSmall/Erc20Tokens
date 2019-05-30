@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.202
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TokenTok.Console", "TokenTok.Console\TokenTok.Console.csproj", "{D2A22C26-D2AF-4D0F-A1ED-CA02E3C799D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2A22C26-D2AF-4D0F-A1ED-CA02E3C799D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2A22C26-D2AF-4D0F-A1ED-CA02E3C799D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2A22C26-D2AF-4D0F-A1ED-CA02E3C799D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2A22C26-D2AF-4D0F-A1ED-CA02E3C799D3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3A0331C9-B99F-4D99-8775-1829547947BE}
+	EndGlobalSection
+EndGlobal
